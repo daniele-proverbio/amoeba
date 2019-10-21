@@ -21,3 +21,6 @@ The code is free to be used and modified. For instance, additional methods can b
 
 In case of use, please cite the project as:
 * PROVERBIO, Daniele, et al. A Multi-agent approach for in silico simulations of micro-biological systems. arXiv preprint arXiv:1904.11372, 2019.
+
+## Contact email
+daniele.proverbio@outlook.com
