@@ -1,6 +1,8 @@
 # amoeba
 GAMA code for MAS simulations of D. discoideum colonies.
 
+It generates the simulatioons described in Proverbio, D., Gallo, L., Passalacqua, B. et al. Assessing the robustness of decentralized gathering: a multi-agent approach on micro-biological systems. Swarm Intell 14, 313–331 (2020). https://doi.org/10.1007/s11721-020-00186-y
+
 The code works with Gama Platform 1.8 (https://gama-platform.github.io/)
 
 ## Objective
@@ -9,7 +11,7 @@ The code initializes and run Multi Agent System simulations of colonies of the s
 
 
 ## Description
-Although in one single file, the code is subdivided in the following sections:
+The code is subdivided in the following sections:
 
 * Parameters: Default parameters are consistent with biological values, when translated in simulation units.
 * Init: initialization and save statements
@@ -20,7 +22,7 @@ Although in one single file, the code is subdivided in the following sections:
 The code is free to be used and modified. For instance, additional methods can be implemented for the agent Amoeba. Simulations can be also performed for didactical purposes in the field of self organization and emergence.
 
 In case of use, please cite the project as:
-* PROVERBIO, Daniele, et al. A Multi-agent approach for in silico simulations of micro-biological systems. arXiv preprint arXiv:1904.11372, 2019.
+* Proverbio, D., Gallo, L., Passalacqua, B. et al. Assessing the robustness of decentralized gathering: a multi-agent approach on micro-biological systems. Swarm Intell 14, 313–331 (2020). https://doi.org/10.1007/s11721-020-00186-y
 
 ## Contact email
 daniele.proverbio@outlook.com
