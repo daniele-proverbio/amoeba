@@ -3,6 +3,8 @@ GAMA code for MAS simulations of D. discoideum colonies.
 
 It generates the simulations described in Proverbio, D., Gallo, L., Passalacqua, B. et al. Assessing the robustness of decentralized gathering: a multi-agent approach on micro-biological systems. Swarm Intell 14, 313–331 (2020). https://doi.org/10.1007/s11721-020-00186-y
 
+It also generates the results for D. Proverbio, Chemotaxis in heterogeneous environments: a multi-agent model of decentralised gathering past obstacles (2023, ArXiv)
+
 The code works with Gama Platform 1.8 (https://gama-platform.github.io/)
 
 ## Objective
